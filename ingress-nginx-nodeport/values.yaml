@@ -1,0 +1,6 @@
+---
+controller:
+  extraArgs:
+    publish-status-address: localhost
+  service:
+    type: NodePort
